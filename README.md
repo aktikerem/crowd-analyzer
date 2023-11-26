@@ -50,6 +50,6 @@ if u succsesfully complete the steps on top u should be able to run main.py file
 ```
 $ python main.py
 ```
-and thats it gui will open with the first video input device detected in the system 
+and thats it gui will open with the first video input device detected in the system. 
 remember this is a personal project and i woudnt recommend it for professional use rn
 since it has many problems with it altough i might fix them later. 
